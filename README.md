@@ -1,4 +1,4 @@
-# Ubots Challenge
+# Challenge
 
 ## Architecture
 Hexagonal architecture (Ports and Adapters)
